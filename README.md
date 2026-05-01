@@ -2,7 +2,7 @@
 
 A full-stack web application that allows students to register for technical courses and provides administrators with a dashboard to manage enrollments in real-time.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (Fetch API)
 - **Backend:** Java, Spring Boot (REST API)
 - **Data Storage:** In-Memory Storage (Java ArrayList)
